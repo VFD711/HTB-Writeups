@@ -802,7 +802,4 @@ mysql>
 ```
 WELL WELL WELL , HTB username , since the practice case ask me to find the username HTB and its password , i think this is it , THX u all 
 
-
-> THE TRUTH
-> Of course im here not because i already understand , im here is to understand that my capabilites for now is` just like `this , i still need the google help to find out what is it , i hope i can get better in the future , cause till this day , if i already found another dead end i have an urge to open people writeup , i feel like im still need to try again without the open other people write-up , im quite jealous that the fact all of my friends can solve easy machine without open other people write-up , but i try to keep up so that i could be like them , i feel this write up will be disappointing to read , since this is my first time taking certificate .
-> -- Bryant || Arkryr -- [still learning mate pls dont bully me, i try my best to keep learning ]
+> -- Bryant || Arkryr -- [i'm still learning, trying my best to keep getting better ]
