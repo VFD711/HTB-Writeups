@@ -129,7 +129,7 @@ local: authorized_keys remote: authorized_keys
 738 bytes received in 00:00 (3.59 KiB/s)
 ```
 and i was correct , then i try to login it using ssh with id_rsa , but didnt work , then i remember that the key need to be activated , since the key is 'kinda lock', more like it need to be activated for so our system can prove your identity without a password
-![[document_easy_htb_footprinting_1.png|511]]
+![screenshot](document_easy_htb_footprinting_1.png)
 i think i need to activate it somewhere since in my directory didnt work , then i try in `home directory` so maybe the key would work i guess 
 ```shell
  ssh -i id_rsa ceil@10.129.199.153
