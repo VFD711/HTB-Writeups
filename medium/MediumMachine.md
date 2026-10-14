@@ -190,10 +190,10 @@ and with ai power let's try to using xfreerdp
 with the success to access the `Visual Desktop Windows` / another machine, i try to roaming around in the `visual desktop window` and found the `micosoft SQL server` app that we can run , by opening the page already give us the login credentials , i try with the credentials that i got didnt work it pop out this message 
 ![screenshot](documentation/document_medium_htb_footprinting_3.png)
 another dead end i guess, since i cannot run with normal user , maybe i can try it with `run as administrator`, just like linux
-![[linuxmeme.png]]
+![screenshot](documentation/linuxmeme.png)
 after i run as administrator it goes the same popping the login with credentials , after entering the same password again it does give me an access .... , as an `admin`
-![screenshot](documentation/document_medium_htb_footprinting_4.png)
+![screenshot](documentation/documentation_medium_htb_footprinting_4.png)
 and by roaming around in this app that i didnt know how does even work in my terminal , i found `dbp.devsacc`
-![screenshot](documentation/document_medium_htb_footprinting_5.png)
+![screenshot](documentation/documentation_medium_htb_footprinting_5.png)
 seems interesting enough then i open the table and found the flag in row 157 with user `HTB` 
-![screenshot](documentation/document_medium_htb_footprinting_6.png)
+![screenshot](documentation/documentation_medium_htb_footprinting_6.png)
