@@ -404,7 +404,7 @@ well3 , in here i can see that there's a string that shows credentials , i think
 Well im not giving up in here , i must say that openssl must do something in here , cause i feel that just by why they put `110`, `143` , `993` , `995` with no purpose , or maybe i just dumb , cause in here i already assuming , but why not give it a try 
 
 Since i already have some credentials to use and i didn't know how to use the command inside the openssl i try to google it to find out how to use the tool 
-![screenshot](documentation/documentation_hard_htb_footprinting_1.png)
+![screenshot](Documentation/documentation_hard_htb_footprinting_1.png)
 Owh we can login inside `openssl` , well then let's give it a try 
 ```shell 
 openssl s_client -connect 10.129.202.20:imaps
