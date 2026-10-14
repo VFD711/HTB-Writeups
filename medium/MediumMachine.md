@@ -194,6 +194,6 @@ another dead end i guess, since i cannot run with normal user , maybe i can try 
 after i run as administrator it goes the same popping the login with credentials , after entering the same password again it does give me an access .... , as an `admin`
 ![screenshot](documentation/documentation_medium_htb_footprinting_4.png)
 and by roaming around in this app that i didnt know how does even work in my terminal , i found `dbp.devsacc`
-![screenshot](documentation/documentation_medium_htb_footprinting_5.png)
+![screenshot](documentation/documentation_medium_htb_foorprinting_5.png)
 seems interesting enough then i open the table and found the flag in row 157 with user `HTB` 
 ![screenshot](documentation/documentation_medium_htb_footprinting_6.png)
